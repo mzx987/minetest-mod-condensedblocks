@@ -1,0 +1,13 @@
+-------------------------------
+--Config for Condensed Blocks--
+-------------------------------
+
+--[[
+Used for condensing blocks a certain amount of times.
+You can choose a value between 1-8.
+
+Default: 4
+]]
+condensedblocks_multiplier = 4
+
+--There will be more configuration options in the future once an API is implemented.
